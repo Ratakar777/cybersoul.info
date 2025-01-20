@@ -1,0 +1,532 @@
+Uri: https://cybersoul.info/
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\index.htm
+Content Type: text/html
+
+Uri: https://cybersoul.info/1988-project
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\1988-project.html
+Content Type: text/html
+
+Uri: https://cybersoul.info/ff-2024
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\ff-2024.html
+Content Type: text/html
+
+Uri: https://cybersoul.info/geschieden
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\geschieden.html
+Content Type: text/html
+
+Uri: https://cybersoul.info/selected-works
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\selected-works.html
+Content Type: text/html
+
+Uri: https://events.framer.com/script
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\script
+Content Type: text/javascript
+
+Uri: https://fonts.gstatic.com/s/bigshouldersdisplay/v21/fC1_PZJEZG-e9gHhdI4-NBbfd2ys3SjJCx1cw9DuHpM.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\s\bigshouldersdisplay\v21\fC1_PZJEZG-e9gHhdI4-NBbfd2ys3SjJCx1cw9DuHpM.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/bigshouldersdisplay/v21/fC1_PZJEZG-e9gHhdI4-NBbfd2ys3SjJCx1cwtDuHpM.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\s\bigshouldersdisplay\v21\fC1_PZJEZG-e9gHhdI4-NBbfd2ys3SjJCx1cwtDuHpM.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/bigshouldersdisplay/v21/fC1_PZJEZG-e9gHhdI4-NBbfd2ys3SjJCx1czNDu.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\s\bigshouldersdisplay\v21\fC1_PZJEZG-e9gHhdI4-NBbfd2ys3SjJCx1czNDu.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v7/NGSwv5HMAFg6IuGlBNMjxLsD8ah8QA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\s\intertight\v7\NGSwv5HMAFg6IuGlBNMjxLsD8ah8QA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v7/NGSwv5HMAFg6IuGlBNMjxLsE8ah8QA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\s\intertight\v7\NGSwv5HMAFg6IuGlBNMjxLsE8ah8QA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v7/NGSwv5HMAFg6IuGlBNMjxLsH8ag.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\s\intertight\v7\NGSwv5HMAFg6IuGlBNMjxLsH8ag.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v7/NGSwv5HMAFg6IuGlBNMjxLsI8ah8QA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\s\intertight\v7\NGSwv5HMAFg6IuGlBNMjxLsI8ah8QA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v7/NGSwv5HMAFg6IuGlBNMjxLsJ8ah8QA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\s\intertight\v7\NGSwv5HMAFg6IuGlBNMjxLsJ8ah8QA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v7/NGSwv5HMAFg6IuGlBNMjxLsK8ah8QA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\s\intertight\v7\NGSwv5HMAFg6IuGlBNMjxLsK8ah8QA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v7/NGSwv5HMAFg6IuGlBNMjxLsL8ah8QA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\s\intertight\v7\NGSwv5HMAFg6IuGlBNMjxLsL8ah8QA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v7/NGSyv5HMAFg6IuGlBNMjxLsCwa5kRFe9.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\s\intertight\v7\NGSyv5HMAFg6IuGlBNMjxLsCwa5kRFe9.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v7/NGSyv5HMAFg6IuGlBNMjxLsCwadkRFe9.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\s\intertight\v7\NGSyv5HMAFg6IuGlBNMjxLsCwadkRFe9.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v7/NGSyv5HMAFg6IuGlBNMjxLsCwalkRFe9.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\s\intertight\v7\NGSyv5HMAFg6IuGlBNMjxLsCwalkRFe9.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v7/NGSyv5HMAFg6IuGlBNMjxLsCwapkRA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\s\intertight\v7\NGSyv5HMAFg6IuGlBNMjxLsCwapkRA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v7/NGSyv5HMAFg6IuGlBNMjxLsCwaRkRFe9.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\s\intertight\v7\NGSyv5HMAFg6IuGlBNMjxLsCwaRkRFe9.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v7/NGSyv5HMAFg6IuGlBNMjxLsCwaVkRFe9.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\s\intertight\v7\NGSyv5HMAFg6IuGlBNMjxLsCwaVkRFe9.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/intertight/v7/NGSyv5HMAFg6IuGlBNMjxLsCwaZkRFe9.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\s\intertight\v7\NGSyv5HMAFg6IuGlBNMjxLsCwaZkRFe9.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\1K3W8DizY3v4emK8Mb08YHxTbs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\2A4Xx7CngadFGlVV4xrO06OBHY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2BmSa4TZZvFKAZg2DydxTbvKlTU.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\2BmSa4TZZvFKAZg2DydxTbvKlTU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2uIBiALfCHVpWbHqRMZutfT7giU.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\2uIBiALfCHVpWbHqRMZutfT7giU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4oIO9fB59bn3cKFWz7piCj28z9s.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\4oIO9fB59bn3cKFWz7piCj28z9s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/7pScaNeb6M7n2HF2jKemDqzCIr4.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\7pScaNeb6M7n2HF2jKemDqzCIr4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\867QObYax8ANsfX4TGEVU9YiCM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8exwVHJy2DhJ4N5prYlVMrEKmQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\8exwVHJy2DhJ4N5prYlVMrEKmQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\b6Y37FthZeALduNqHicBT6FutY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\cdAe8hgZ1cMyLu9g005pAW3xMo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\CfMzU8w2e7tHgF4T4rATMPuWosA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DF7bjCRmStYPqSb945lAlMfCCVQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\DF7bjCRmStYPqSb945lAlMfCCVQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/djqIk3Er2JcAcz7Rup88BdINEw.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\djqIk3Er2JcAcz7Rup88BdINEw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\DOfvtmE1UplCq161m6Hj8CSQYg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\DXD0Q7LSl7HEvDzucnyLnGBHM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/F5Lmfd3fCAu7TwiYbI4DLWw4ks.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\F5Lmfd3fCAu7TwiYbI4DLWw4ks.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fXvVh2JeZlehNcEhKHpHH0frSl0.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\fXvVh2JeZlehNcEhKHpHH0frSl0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\GIryZETIX4IFypco5pYZONKhJIo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\H89BbHkbHDzlxZzxi8uPzTsp90.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/I11LrmuBDQZweplJ62KkVsklU5Y.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\I11LrmuBDQZweplJ62KkVsklU5Y.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Ig8B8nzy11hzIWEIYnkg91sofjo.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\Ig8B8nzy11hzIWEIYnkg91sofjo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/KMFW46iYsEZaUBwXbwPc9nQm71o.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\KMFW46iYsEZaUBwXbwPc9nQm71o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/n9CXKI3tsmCPeC6MCT9NziShSuQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\n9CXKI3tsmCPeC6MCT9NziShSuQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/nCpxWS6DaPlPe0lHzStXAPCo3lw.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\nCpxWS6DaPlPe0lHzStXAPCo3lw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NNTAT1XAm8ZRkr824inYPkjNeL4.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\NNTAT1XAm8ZRkr824inYPkjNeL4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/P2qr9PAWBt905929rHfxmneMUG0.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\P2qr9PAWBt905929rHfxmneMUG0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qctQFoJqJ9aIbRSIp0AhCQpFxn8.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\qctQFoJqJ9aIbRSIp0AhCQpFxn8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qS4UjQYyATcVV9rODk0Zx9KhkY8.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\qS4UjQYyATcVV9rODk0Zx9KhkY8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/QxmhnWTzLtyjIiZcfaLIJ8EFBXU.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\QxmhnWTzLtyjIiZcfaLIJ8EFBXU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/sQxGYWDlRkDr0eOKqiNRl6g5rs.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\sQxGYWDlRkDr0eOKqiNRl6g5rs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TBccIZR9kIpkRce5i9ATfPp7a4.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\TBccIZR9kIpkRce5i9ATfPp7a4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/THWAFHoAcmqLMy81E8hCSdziVKA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\THWAFHoAcmqLMy81E8hCSdziVKA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\tKtBcDnBMevsEEJKdNGhhkLzYo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\tUSCtfYVM1I1IchuyCwz9gDdQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tVew2LzXJ1t7QfxP1gdTIdj2o0g.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\tVew2LzXJ1t7QfxP1gdTIdj2o0g.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\u6gJwDuwB143kpNK1T1MDKDWkMc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/U9LaDDmbRhzX3sB8g8glTy5feTE.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\U9LaDDmbRhzX3sB8g8glTy5feTE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UjFZPDy3qGuDktQM4q9CxhKfIa8.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\UjFZPDy3qGuDktQM4q9CxhKfIa8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UTeedEK21hO5jDxEUldzdScUqpg.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\UTeedEK21hO5jDxEUldzdScUqpg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vebZUMjGyKkYsfcY73iwWTzLNag.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\vebZUMjGyKkYsfcY73iwWTzLNag.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/VfD2n20yM7v0hrUEBHEyafsmMBY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\VfD2n20yM7v0hrUEBHEyafsmMBY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vFzuJY0c65av44uhEKB6vyjFMg.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\vFzuJY0c65av44uhEKB6vyjFMg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\VgYFWiwsAC5OYxAycRXXvhze58.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\vQyevYAyHtARFwPqUzQGpnDs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\WZ367JPwf9bRW6LdTHN8rXgSjw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Zwfz6xbVe5pmcWRJRgBDHnMkOkI.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\assets\Zwfz6xbVe5pmcWRJRgBDHnMkOkI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/images/2B08idwxgU6f0K3juXVWhLrKxRY.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\2B08idwxgU6f0K3juXVWhLrKxRY.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/3LMk9XsSYuoo0ftDQfi59les0.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\3LMk9XsSYuoo0ftDQfi59les0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/4IbIs8qFGR2jrXNF6Qqc4xu8C9U.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\4IbIs8qFGR2jrXNF6Qqc4xu8C9U.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/4IbIs8qFGR2jrXNF6Qqc4xu8C9U.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\4IbIs8qFGR2jrXNF6Qqc4xu8C9U-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/BopIWwhdrA32fltutqw8GgKUg.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\BopIWwhdrA32fltutqw8GgKUg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/BopIWwhdrA32fltutqw8GgKUg.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\BopIWwhdrA32fltutqw8GgKUg-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ekzlM8Dr9iToSAdt3ROIGjC9jko.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\ekzlM8Dr9iToSAdt3ROIGjC9jko.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/FC0j4016VFG9JaOFfnDcBxWkDJ4.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\FC0j4016VFG9JaOFfnDcBxWkDJ4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/FC0j4016VFG9JaOFfnDcBxWkDJ4.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\FC0j4016VFG9JaOFfnDcBxWkDJ4-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/FJnc0hytmHU65fVuLnMGVfEqo.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\FJnc0hytmHU65fVuLnMGVfEqo.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/gMiIcre5klpGKwX16xMRg6ACDws.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\gMiIcre5klpGKwX16xMRg6ACDws.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/gvE95Po1o3fRL15CiyMroed38Q.gif
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\gvE95Po1o3fRL15CiyMroed38Q.gif
+Content Type: image/gif
+
+Uri: https://framerusercontent.com/images/HFN9dSAGwgz6spW8lHV54VEgw.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\HFN9dSAGwgz6spW8lHV54VEgw.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/HFN9dSAGwgz6spW8lHV54VEgw.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\HFN9dSAGwgz6spW8lHV54VEgw-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/kQ8DwXqmED6d0hbogQgVmmmdln0.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\kQ8DwXqmED6d0hbogQgVmmmdln0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/lC4OSoCKSgopLhFd9az56P5lpY.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\lC4OSoCKSgopLhFd9az56P5lpY.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/lC4OSoCKSgopLhFd9az56P5lpY.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\lC4OSoCKSgopLhFd9az56P5lpY-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/lFHMLF1APaEbJCU6dFcF7Bm7w.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\lFHMLF1APaEbJCU6dFcF7Bm7w.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/lFHMLF1APaEbJCU6dFcF7Bm7w.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\lFHMLF1APaEbJCU6dFcF7Bm7w-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/MN1XYc6TZ7by8UMEZ9MpEVrIsc.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\MN1XYc6TZ7by8UMEZ9MpEVrIsc.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/MN1XYc6TZ7by8UMEZ9MpEVrIsc.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\MN1XYc6TZ7by8UMEZ9MpEVrIsc-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/nql3XxtumHGKHeQUNlrgbSsxLI.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\nql3XxtumHGKHeQUNlrgbSsxLI.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/nql3XxtumHGKHeQUNlrgbSsxLI.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\nql3XxtumHGKHeQUNlrgbSsxLI-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/oRgwztSg6IamW7rHmVBa1ssIi4.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\oRgwztSg6IamW7rHmVBa1ssIi4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/PjOfomDpS0xf0e2OuCH2yz5sd8.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\PjOfomDpS0xf0e2OuCH2yz5sd8.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/PjOfomDpS0xf0e2OuCH2yz5sd8.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\PjOfomDpS0xf0e2OuCH2yz5sd8-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/QRn2ODybMAFkAsg0UYMz56wPAA.gif
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\QRn2ODybMAFkAsg0UYMz56wPAA.gif
+Content Type: image/gif
+
+Uri: https://framerusercontent.com/images/RoQh7A5rDrzxps9iEHRgps0Wk.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\RoQh7A5rDrzxps9iEHRgps0Wk.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/RoQh7A5rDrzxps9iEHRgps0Wk.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\RoQh7A5rDrzxps9iEHRgps0Wk-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/tGlNbDln7eAT6gVRTQwzt6jI.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\tGlNbDln7eAT6gVRTQwzt6jI.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/tGlNbDln7eAT6gVRTQwzt6jI.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\tGlNbDln7eAT6gVRTQwzt6jI-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/wQkBCWLkx8g3HIfrfsAmyZvxE.gif
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\wQkBCWLkx8g3HIfrfsAmyZvxE.gif
+Content Type: image/gif
+
+Uri: https://framerusercontent.com/images/x926jxEvbm7hmlSIvjlIRrqDRg.png
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\x926jxEvbm7hmlSIvjlIRrqDRg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/x926jxEvbm7hmlSIvjlIRrqDRg.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\x926jxEvbm7hmlSIvjlIRrqDRg-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/XkwS0ZPvlmgc6sRrko3NryWg5bE.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\XkwS0ZPvlmgc6sRrko3NryWg5bE.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/XkwS0ZPvlmgc6sRrko3NryWg5bE.jpg?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\images\XkwS0ZPvlmgc6sRrko3NryWg5bE-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/sites/3tOJ5as26Bgu50yfR2nqeZ/chunk-3JUXMRRE.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\sites\3tOJ5as26Bgu50yfR2nqeZ\chunk-3JUXMRRE.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3tOJ5as26Bgu50yfR2nqeZ/chunk-42U43NKG.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\sites\3tOJ5as26Bgu50yfR2nqeZ\chunk-42U43NKG.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3tOJ5as26Bgu50yfR2nqeZ/chunk-5QJUXRVD.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\sites\3tOJ5as26Bgu50yfR2nqeZ\chunk-5QJUXRVD.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3tOJ5as26Bgu50yfR2nqeZ/chunk-75PPQVDQ.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\sites\3tOJ5as26Bgu50yfR2nqeZ\chunk-75PPQVDQ.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3tOJ5as26Bgu50yfR2nqeZ/chunk-CALXR4JM.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\sites\3tOJ5as26Bgu50yfR2nqeZ\chunk-CALXR4JM.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3tOJ5as26Bgu50yfR2nqeZ/chunk-ERM6FBRR.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\sites\3tOJ5as26Bgu50yfR2nqeZ\chunk-ERM6FBRR.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3tOJ5as26Bgu50yfR2nqeZ/chunk-FU4YNVCP.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\sites\3tOJ5as26Bgu50yfR2nqeZ\chunk-FU4YNVCP.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3tOJ5as26Bgu50yfR2nqeZ/chunk-JR5VT52U.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\sites\3tOJ5as26Bgu50yfR2nqeZ\chunk-JR5VT52U.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3tOJ5as26Bgu50yfR2nqeZ/chunk-MJN3C2MJ.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\sites\3tOJ5as26Bgu50yfR2nqeZ\chunk-MJN3C2MJ.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3tOJ5as26Bgu50yfR2nqeZ/chunk-PZZYXGVQ.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\sites\3tOJ5as26Bgu50yfR2nqeZ\chunk-PZZYXGVQ.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3tOJ5as26Bgu50yfR2nqeZ/chunk-RESULPD2.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\sites\3tOJ5as26Bgu50yfR2nqeZ\chunk-RESULPD2.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3tOJ5as26Bgu50yfR2nqeZ/chunk-VIMB3IEA.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\sites\3tOJ5as26Bgu50yfR2nqeZ\chunk-VIMB3IEA.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3tOJ5as26Bgu50yfR2nqeZ/chunk-WTPKSG5O.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\sites\3tOJ5as26Bgu50yfR2nqeZ\chunk-WTPKSG5O.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3tOJ5as26Bgu50yfR2nqeZ/chunk-Y5FTINFI.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\sites\3tOJ5as26Bgu50yfR2nqeZ\chunk-Y5FTINFI.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3tOJ5as26Bgu50yfR2nqeZ/gc6ZR-_4qtX0Rn9xSFEBOUdRQQalfHFiHvtSUuvHHdE.U3TEO4HT.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\sites\3tOJ5as26Bgu50yfR2nqeZ\gc6ZR-_4qtX0Rn9xSFEBOUdRQQalfHFiHvtSUuvHHdE.U3TEO4HT.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3tOJ5as26Bgu50yfR2nqeZ/i9D3tEWnZMyjl6f0IcwYVUHSdRJ7P9QNCkjfo3BAKsM.YUVIVU3N.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\sites\3tOJ5as26Bgu50yfR2nqeZ\i9D3tEWnZMyjl6f0IcwYVUHSdRJ7P9QNCkjfo3BAKsM.YUVIVU3N.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3tOJ5as26Bgu50yfR2nqeZ/script_main.ZMWGO3IV.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\sites\3tOJ5as26Bgu50yfR2nqeZ\script_main.ZMWGO3IV.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3tOJ5as26Bgu50yfR2nqeZ/yYMic6DWkyybX1aH11TMWAsBeF8TPqZrRNnCOaqv7kI.TQEFUQZZ.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\cybersoul.info\sites\3tOJ5as26Bgu50yfR2nqeZ\yYMic6DWkyybX1aH11TMWAsBeF8TPqZrRNnCOaqv7kI.TQEFUQZZ.mjs
+Content Type: text/javascript
+
